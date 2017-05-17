@@ -1,0 +1,8 @@
+*.user
+*[~o]
+Game
+Makefile
+moc_mainwindow.cpp
+textures/
+mainwindow.h
+*.autosave
